@@ -12,3 +12,7 @@ The initial version of the project is focused around projects and departments bu
 
 
 This is a BETA version - I'm happy to provide support for anyone wishing to try the application.
+
+NOTE: This is an exported Solution with all the associated tables.  
+
+Please get in touch if you plan to use it - I'm happy to work on this as you use it.
